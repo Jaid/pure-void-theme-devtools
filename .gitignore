@@ -1,31 +1,7 @@
-# dotenv
-.env
-
-# Node packages
+*.DS_Store
 node_modules
-
-# npm
-package-lock.json
-!/package-lock.json
-npm-debug.log
-npm-debug.log.*
-.npmrc
-/report.*.json
-
-# pnpm
-shrinkwrap.yaml
-!/shrinkwrap.yaml
-pnpm-debug.log
-
-# Yarn
-yarn.lock
-!/yarn.lock
-yarn-error.log
-
-# Generated or temporary content
-dist
-temp
-
-# IDEs
-/.vscode/
-/.idea/
+theme-extension/stable.css
+theme-extension/canary.css
+theme-extension.zip
+theme-extension.crx
+theme-extension.pem
