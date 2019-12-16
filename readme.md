@@ -1,8 +1,8 @@
 ![Logo](theme-extension/images/icon128.png)
 
-# Pure Void
+# Chrome DevTools Theme: Pure Void
 
-The optimized dark theme for web development.
+Simple Chrome DevTools theme with a black background.
 
 ![Screenshot](screenshot.png)
 
