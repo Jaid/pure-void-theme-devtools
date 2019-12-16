@@ -1,5 +1,3 @@
-![Logo](theme-extension/images/icon128.png)
-
 # Chrome DevTools Theme: Pure Void
 
 Simple Chrome DevTools theme with a black background.
