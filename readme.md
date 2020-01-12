@@ -1,21 +1,48 @@
-# Chrome DevTools Theme: Pure Void
+# DevTools Theme: Pure Void
 
-Simple Chrome DevTools theme with a black background.
 
-![Screenshot](screenshot.png)
+<a href="https://raw.githubusercontent.com/Jaid/devtools-theme-pure-void/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/devtools-theme-pure-void?style=flat-square" alt="License"/></a>  
+ <a href="https://github.com/Jaid/devtools-theme-pure-void/commits"><img src="https://img.shields.io/github/commits-since/Jaid/devtools-theme-pure-void/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/Jaid/devtools-theme-pure-void/commits"><img src="https://img.shields.io/github/last-commit/Jaid/devtools-theme-pure-void?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/devtools-theme-pure-void/issues"><img src="https://img.shields.io/github/issues/Jaid/devtools-theme-pure-void?style=flat-square&logo=github" alt="Issues"/></a>  
 
-## Installation
+**Simple Chrome DevTools theme with a black background.**
 
-- Navigate to `chrome://flags`, find **Developer Tools Experiments** and toggle to **Enabled**.
-- Reload Chrome.
-- In DevTools, click the three dots menu, go to **Settings -> Experiments** and select **Allow UI Themes**.
-- Set theme to **Dark Mode** (this is important, or the theme won't look right).
-  To set theme to **Dark Mode**, go to **Preferences**(In DevTools settings itself) **-> Appearance -> Theme** and select **Dark**.
-- Load a new tab and enjoy your awesome new DevTools theme!
 
-## Notice
 
-- This project is based on [new-moon-chrome-devtools](https://github.com/taniarascia/new-moon-chrome-devtools) which is based on [chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme). Thank you!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Development
+
+
+
+Setting up:
+```bash
+git clone git@github.com:Jaid/devtools-theme-pure-void.git
+cd devtools-theme-pure-void
+npm install
+```
+Testing in production environment:
+```bash
+npm run test
+```
+
 
 ## License
 ```text
