@@ -7,7 +7,7 @@
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jaid/devtools-theme-pure-void.git"
+    "url": "https://github.com/jaid/devtools-theme-pure-void"
   },
   "scripts": {
     "test": "echo \"Error: no test needed\""
