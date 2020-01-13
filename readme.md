@@ -1,11 +1,10 @@
 # DevTools Theme: Pure Void
 
 
-<a href="https://raw.githubusercontent.com/Jaid/devtools-theme-pure-void/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/devtools-theme-pure-void?style=flat-square" alt="License"/></a>  
- <a href="https://github.com/Jaid/devtools-theme-pure-void/commits"><img src="https://img.shields.io/github/commits-since/Jaid/devtools-theme-pure-void/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/Jaid/devtools-theme-pure-void/commits"><img src="https://img.shields.io/github/last-commit/Jaid/devtools-theme-pure-void?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/devtools-theme-pure-void/issues"><img src="https://img.shields.io/github/issues/Jaid/devtools-theme-pure-void?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://raw.githubusercontent.com/jaid/devtools-theme-pure-void/master/license.txt"><img src="https://img.shields.io/github/license/jaid/devtools-theme-pure-void?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor devtools-theme-pure-void"/></a>
+ <a href="https://github.com/jaid/devtools-theme-pure-void/commits"><img src="https://img.shields.io/github/commits-since/jaid/devtools-theme-pure-void/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/jaid/devtools-theme-pure-void/commits"><img src="https://img.shields.io/github/last-commit/jaid/devtools-theme-pure-void?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/devtools-theme-pure-void/issues"><img src="https://img.shields.io/github/issues/jaid/devtools-theme-pure-void?style=flat-square&logo=github" alt="Issues"/></a>  
 
 **Simple Chrome DevTools theme with a black background.**
-
 
 
 
@@ -34,7 +33,7 @@
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/devtools-theme-pure-void.git
+git clone git@github.com:jaid/devtools-theme-pure-void.git
 cd devtools-theme-pure-void
 npm install
 ```
