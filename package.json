@@ -21,5 +21,7 @@
   },
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/jaid"
+  "funding": "https://github.com/sponsors/jaid",
+  "homepage": "https://github.com/Jaid/devtools-theme-pure-void",
+  "keywords": []
 }
