@@ -23,5 +23,15 @@
   "license": "MIT",
   "funding": "https://github.com/sponsors/jaid",
   "homepage": "https://github.com/Jaid/devtools-theme-pure-void",
-  "keywords": []
+  "keywords": [
+    "chrome",
+    "chrome-extension",
+    "dark-theme",
+    "devtools-extension",
+    "devtools-theme",
+    "google-chrome",
+    "google-chrome-devtools-theme",
+    "google-chrome-extension",
+    "google-chrome-theme"
+  ]
 }
