@@ -34,5 +34,6 @@
     "google-chrome-devtools-theme",
     "google-chrome-extension",
     "google-chrome-theme"
-  ]
+  ],
+  "type": "module"
 }
