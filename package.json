@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test needed\""
   },
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.5.2",
     "grunt-bump": "^0.8.0",
     "grunt-contrib-compress": "^1.6.0",
     "grunt-contrib-less": "^2.0.0",
